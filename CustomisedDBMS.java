@@ -233,7 +233,7 @@ class DBMS
 
 }
 
-class Program501
+class CustomisedDBMS
 {
     public static void main(String Arg[])
     {
